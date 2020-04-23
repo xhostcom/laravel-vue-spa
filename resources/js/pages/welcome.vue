@@ -18,7 +18,6 @@
         </router-link>
       </template>
     </div>
-
     <div class="text-center">
       <div class="title mb-4">
         {{ title }}
